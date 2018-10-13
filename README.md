@@ -1,4 +1,3 @@
 # HelloWorld
-first repo
-
-Hi! I'm Just, and this is my first repository
+This is a story of a lad reading another's github repos.
+wait thats you
